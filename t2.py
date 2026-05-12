@@ -343,7 +343,7 @@ graph_coloring(graph, m)
 # elif "time" in user:
 # import datetime
 # print("TravelBot: Current time is", datetime.datetime.now().strftime("%H:%M:%S"))
-elif "date" in user:
+# elif "date" in user:
 # import datetime
 # print("TravelBot: Today's date is", datetime.datetime.now().date())
 # elif user == "bye":
