@@ -59,7 +59,7 @@ graph_coloring(graph, m)
 
 
 
-N queens
+# N queens
 
 # n = int(input("Enter the number of queens: "))
 
